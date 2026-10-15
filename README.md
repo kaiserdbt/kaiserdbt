@@ -23,6 +23,8 @@
 
 | Project | Stack | What it is |
 |---------|-------|-----------|
+
+| **[Verifactu-saas](https://github.com/cardeseo-max/verifactu-saas)** `private` | Next.js · Supabase · PostgreSQL · Resend 
 | **[Olunae](https://github.com/kaiserdbt/Olunae)** `private` | Next.js · shadcn/ui · Neon · Drizzle | Beauty intelligence platform — skin analysis, visual classification & personalised routines |
 | **[Qoniar](https://github.com/kaiserdbt/ai-tools-es)** `private` | Next.js · Drizzle · 866 tests | Programmatic SEO platform in Spanish — software tool reviews & comparisons at scale |
 | **[Marai Agenda](https://github.com/kaiserdbt/Agenda)** `private` | Next.js · Prisma · Stripe · WhatsApp Bot | Full-stack booking platform — appointments, payments, automated messaging & mobile app |
